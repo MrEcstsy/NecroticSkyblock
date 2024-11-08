@@ -10,6 +10,7 @@ comes with a RP, doubt its any good btw, this core contains:
 - Some vanilla enchantments
 - Shop
   
+This plugin also uses utility core, however i dont know which version, the one i have posted should be fine. if it works... lol
 some photos
 
 ![image](https://github.com/user-attachments/assets/e8e587ba-f723-46b2-af76-255d6c151fcb)
