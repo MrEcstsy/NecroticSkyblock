@@ -1,0 +1,56 @@
+# Looting Rates
+
+# Entities that looting will work on.
+looting.entities:
+  drop_multiplier: 2
+  zombie:
+    - "rotten_flesh" # Rotten Flesh drop
+  skeleton:
+    - "bone" # Bone drop
+    - "arrow" # Arrow drop
+  creeper:
+    - "gunpowder" # Gunpowder drop
+  spider:
+    - "string" # String drop
+    - "spider_eye" # Spider Eye drop
+  enderman:
+    - "ender_pearl" # Ender Pearl drop
+  witch:
+    - "glass_bottle" # Glass Bottle drop
+    - "stick" # Stick drop
+    - "redstone" # Redstone drop
+  chicken:
+    - "feather" # Feather drop
+    - "raw_chicken" # Raw Chicken drop
+  cow:
+    - "leather" # Leather drop
+    - "beef" # Beef drop
+  pig:
+    - "porkchop" # Porkchop drop
+  sheep:
+    - "wool" # Wool drop
+  rabbit:
+    - "rabbit_hide" # Rabbit Hide drop
+    - "rabbit_foot" # Rabbit Foot drop
+    - "rabbit" # Raw Rabbit drop
+  horse:
+    - "leather" # Leather drop
+  polar_bear:
+    - "fish" # Raw Fish drop
+  wolf:
+    - "bone" # Bone drop
+    - "rotten_flesh" # Rotten Flesh drop
+  ocelot:
+    - "fish" # Raw Fish drop
+  mooshroom:
+    - "red_mushroom" # Red Mushroom drop
+    - "brown_mushroom" # Brown Mushroom drop
+    - "beef" # Beef drop
+  slime:
+    - "slime_ball" # Slime Ball drop
+  magma_cube:
+    - "magma_cream" # Magma Cream drop
+  ghast:
+    - "ghast_tear" # Ghast Tear drop
+  blaze:
+    - "blaze_rod" # Blaze Rod drop

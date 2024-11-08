@@ -1,0 +1,11 @@
+name: Necrotic-Skyblock
+main: xtcy\Necrotic\Loader
+api: 5.0.0
+version: 1.0.0
+author: xtcy
+
+permissions:
+  command.default:
+    default: true
+  command.admin:
+    default: op
